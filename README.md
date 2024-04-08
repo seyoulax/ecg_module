@@ -4,7 +4,7 @@
 
 ### ``Installation``
 
-- *load repository vid ```git clone https://github.com/seyoulax/ecg_module.git```*
+- *load repository via ```git clone https://github.com/seyoulax/ecg_module.git```*
 - *create env, for example conda env: ``` conda create -n ecg_env python=3.10.12 ```*
 - *install dependecies: ```pip install -r requirements.txt```*
 
